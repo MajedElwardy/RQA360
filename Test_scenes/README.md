@@ -52,7 +52,7 @@ G2FormationPace_360Video_ERP_2048x1024_10s_29.97fps_crf10_15940k_8bit_H265.mp4
 
 Please send email in the format as follows:
 
-> * SUBJECT: SSV360-TestScenes
+> * SUBJECT: RQA360-TestScenes
 > * TO: majed.elwardy@bth.se
 
 You are supposed to receive the the download link and the password for unzipping.

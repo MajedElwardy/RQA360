@@ -1,19 +1,8 @@
-# Standing_viewing_ACR_SSV360
+# Standing_viewing_ACR_RQA360
 
 All data files provided in these folders are in `.csv` format with additional information on the file structure given in each file.
 
-## Participants order
 
-The participants ordered in our paper in the same order as the seated viewing, to match the order in standing viewing with seated viewing, the following order is needed:
-
-```
-P001 (standing) —is—> Participant 4 (seated)
-P002 (standing) —is—> Participant 2 (seated)
-P003 (standing) —is—> Participant 1 (seated)
-P004 (standing) —is—> Participant 5 (seated)
-P005 (standing) —is—> Participant 3 (seated)
-```
-  
 ## 1_Data_ACR_MOS
 
 * This folder provides the opinion scores and rating times of the scenes for each participant.
@@ -42,14 +31,8 @@ P005 (standing) —is—> Participant 3 (seated)
 * This folder holds the GSR signal recordings using the wireless Shimmer GSR biosensor with the iMotion software which are stored in a file for each participant.
 * An GSR file includes the GSR signal in micro-Siemens, GSR quality (valid/not-valid), and heart rate (beats/min.).
     
-    
-## 5_Data_ACR_SSQ
 
-* The scores given by each participant to the 16 symptoms of the SSQ are given in this folder.
-* Two files are associated with each participant, i.e., one for the Pre-SSQ and the other for the Post-SSQ.
-    
-
-## 6_Data_ACR_TimeStamp
+## 5_Data_ACR_TimeStamp
 
 * The timestamps for each event that occurred during the recording of the data are provided for each participant.
 * Timestamps mark the starting and ending time for each event such as the different components of the subjective test including calibration, video, rating, and SSQs.
