@@ -15,7 +15,7 @@ The RQA360 dataset contains the following three main folders:
 1- Test_scenes
 
 	- Information regarding the coded reference videos and corresponding test videos
-	- The instructions for the download link of the 120 videos.
+	- The instructions for downloading the link to the 120 videos.
 	
 1- Standing_viewing_ACR_RQA360
 
@@ -65,17 +65,17 @@ Elwardy, M., Zepernick, H.-J., Chu, T. M. C., & Hu, Y. (2024). On the Consistenc
 
 
 ## Acknowledgements
-This work was funded in part by The Knowledge Foundation, Sweden, grant number 20170056, [ViaTecH project](https://a.bth.se/viatech-synergy/).
+This work was supported in part by the Knowledge Foundation, Sweden, through the  [ViaTecH](https://a.bth.se/viatech-synergy/)  and [HINTS](https://a.bth.se/hints/) projects under contract numbers 20170056 and 20220068, respectively.
 
 ## Contact
-If you have any question about our RQA360 dataset, please use the [public issues section](https://github.com/MajedElwardy/RQA360/issues) on this Github repo. 
+If you have any questions about our RQA360 dataset, please use the [public issues section](https://github.com/MajedElwardy/RQA360/issues) on this GitHub repo. 
 
 Alternatively, contact the authors:
-- Majed Elwardy : majed.elwardy@bth.se (corresponding author)
+- Majed Elwardy: majed.elwardy@bth.se (corresponding author)
 - Hans-Jürgen Zepernick: hans-jurgen.zepernick@bth.se
 - Yan Hu: yan.hu@bth.se
 
-Please send email in the format as follows:
+Please send an email in the format as follows:
 
 > * subject: RQA360
 
