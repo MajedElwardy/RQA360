@@ -43,7 +43,7 @@ The RQA360 dataset contains the following three main folders:
 To use the RQA360 dataset in published work, please cite the following paper:
 
 
-- Plain Text (MDPI and ACS Style)
+- Plain Text
 ```
 Elwardy, M., Zepernick, H.-J., Chu, T. M. C., & Hu, Y. (2024). On the Consistency of 360 Video Quality Assessment in Repeated Subjective Tests: A Pilot Study. EAI Endorsed Transactions on Industrial Networks and Intelligent Systems, 11(1). https://doi.org/10.4108/eetinis.v11i1.4323
 ```
